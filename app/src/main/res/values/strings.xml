@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CafeCecilia</string>
+    <string name="home_titulo">Cafe Cecilia</string>
+    <string name="home_descrip">Gran café hecho simple. Empieza tus mañanas con los mejores cafés del mundo. Pruebe nuestros cafés artesanales curados por expertos de nuestros mejores tostadores entregados directamente en su puerta, a su horario.</string>
+    <string name="btn_home">Suscribir</string>
+
+    <string name="colecc_descripuno">Gran Espresso</string>
+    <string name="colecc_descripdos">Planalto</string>
+    <string name="colecc_descriptres">Danche</string>
+    <string name="btn_coleccuno">Suscribir</string>
+    <string name="btn_coleccdos">Suscribir</string>
+    <string name="btn_colecctres">Suscribir</string>
+</resources>
